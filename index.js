@@ -1,3 +1,5 @@
 import { AppRegistry } from 'react-native';
-import App from './App';
-AppRegistry.registerComponent('rnhanbit', () => App);
+import App, { Test } from './App';
+import UI from './UI';
+
+AppRegistry.registerComponent('rnhanbit', () => UI);
