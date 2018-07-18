@@ -1,5 +1,5 @@
 /**
- * Sample React Native App_
+ * Sample React Native _App
  * https://github.com/facebook/react-native
  * @flow
  */
@@ -11,7 +11,7 @@ import {
     View
 } from 'react-native';
 
-export default class App_ extends Component {
+export default class _App extends Component {
     render() {
         return (
             <View style={styles.container}>

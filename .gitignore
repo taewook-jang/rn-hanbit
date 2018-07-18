@@ -17,3 +17,4 @@ yarn-debug.log*
 yarn-error.log*
 ios/build/
 android/build/
+\.DS_Store
